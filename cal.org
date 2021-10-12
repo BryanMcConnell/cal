@@ -1,0 +1,6 @@
+* Learning
+:CATEGORY: Education
+** CSC 302 Week 9
+   SCHEDULED: <2021-10-18 10:00-13:00>
+** CSC 225 HW 6
+   SCHEDULED <2021-10-19 16:00-18:00>
